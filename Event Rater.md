@@ -17,4 +17,5 @@
 #### How?
 
 Quick prototype
-- Spin up an app that runs a python script to get all events and creates an html
+- Spin up a web app that runs a script to get all events and creates an html
+- Stack Overflow [survey](https://survey.stackoverflow.co/2022/#most-loved-dreaded-and-wanted-webframe-love-dread) says [svelte](svelte.dev) is one of the most loved.

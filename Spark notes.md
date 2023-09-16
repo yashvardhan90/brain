@@ -11,3 +11,5 @@
 - 08/19/23 show climbers the best possible way to summit based on success rate of companies, weather window, fitness level etc
 
 - 09/03/2023 a platform that let’s eaters place orders when dining in, handles payments, automates restaurant side book keeping and let’s user rate a dish
+
+- 09/15/2023 website that's aggregates the number of wild animals alive. It would track and bring forward to the world the current situation of anim

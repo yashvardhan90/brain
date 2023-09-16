@@ -12,4 +12,7 @@
 
 - 09/03/2023 a platform that let’s eaters place orders when dining in, handles payments, automates restaurant side book keeping and let’s user rate a dish
 
-- 09/15/2023 website that's aggregates the number of wild animals alive. It would track and bring forward to the world the current situation of anim
+- 09/15/2023 website that's aggregates the number of wild animals alive. It would track and bring forward to the world the current situation of animals.
+  
+- 09/16/2023 website that provides reviews for events. Today there's no way of finding if an event or meetup is worth going to.
+

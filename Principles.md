@@ -32,3 +32,10 @@
 #### Learnings
 
 - Smart people **challenge the assumptions** behind the idea, not the implementation on how to do it.
+
+
+#### [Live an asymmetric life: Graham Weaver](https://www.grahamweaver.com/blog/2023-stanford-graduate-school-of-business-last-lecture)
+- Do hard things.
+- Do your own thing.
+- Do it for decades.
+- Write your story and then make it happen.
